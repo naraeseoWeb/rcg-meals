@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ordering-meal/static/css/main.f13a1a9b.chunk.css",
+    "main.js": "/ordering-meal/static/js/main.304b6163.chunk.js",
+    "main.js.map": "/ordering-meal/static/js/main.304b6163.chunk.js.map",
+    "runtime-main.js": "/ordering-meal/static/js/runtime-main.5fcad9ec.js",
+    "runtime-main.js.map": "/ordering-meal/static/js/runtime-main.5fcad9ec.js.map",
+    "static/js/2.962be9a2.chunk.js": "/ordering-meal/static/js/2.962be9a2.chunk.js",
+    "static/js/2.962be9a2.chunk.js.map": "/ordering-meal/static/js/2.962be9a2.chunk.js.map",
+    "index.html": "/ordering-meal/index.html",
+    "static/css/main.f13a1a9b.chunk.css.map": "/ordering-meal/static/css/main.f13a1a9b.chunk.css.map",
+    "static/js/2.962be9a2.chunk.js.LICENSE.txt": "/ordering-meal/static/js/2.962be9a2.chunk.js.LICENSE.txt",
+    "static/media/buffet.540e5d44.jpg": "/ordering-meal/static/media/buffet.540e5d44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcad9ec.js",
+    "static/js/2.962be9a2.chunk.js",
+    "static/css/main.f13a1a9b.chunk.css",
+    "static/js/main.304b6163.chunk.js"
+  ]
+}
